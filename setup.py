@@ -29,7 +29,7 @@ setup(
     name=MODULE_NAME,
     version="0.0.1",
     author="Uglovskii Artem",
-    email="not.real@mail.dom",
+    author_email="not.real@mail.dom",
     description="Lib with doubly linked list which behaves like a queue",
     long_description=long_description,
     long_description_content_type="text/markdown",
